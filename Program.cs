@@ -10,7 +10,7 @@ namespace ASC_Hex_Viewer
     {
         static void Main(string[] args)
         {
-
+            
         }
     }
 }
