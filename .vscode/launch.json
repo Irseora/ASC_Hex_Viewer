@@ -9,7 +9,7 @@
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
-            "program": "${workspaceFolder}/bin/Debug/net6.0/${workspaceFolderBasename}.dll",
+            "program": "${workspaceFolder}/bin/Debug/net7.0/${workspaceFolderBasename}.dll",
             "args": [],
             "cwd": "${fileWorkspaceFolder}",
             "console": "integratedTerminal",

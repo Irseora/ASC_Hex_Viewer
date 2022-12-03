@@ -1,0 +1,15 @@
+C:\Users\Vivi\Documents\C#\ASC_Hex_Viewer\bin\Debug\net7.0\ASC_Hex_Viewer.exe
+C:\Users\Vivi\Documents\C#\ASC_Hex_Viewer\bin\Debug\net7.0\ASC_Hex_Viewer.deps.json
+C:\Users\Vivi\Documents\C#\ASC_Hex_Viewer\bin\Debug\net7.0\ASC_Hex_Viewer.runtimeconfig.json
+C:\Users\Vivi\Documents\C#\ASC_Hex_Viewer\bin\Debug\net7.0\ASC_Hex_Viewer.dll
+C:\Users\Vivi\Documents\C#\ASC_Hex_Viewer\bin\Debug\net7.0\ASC_Hex_Viewer.pdb
+C:\Users\Vivi\Documents\C#\ASC_Hex_Viewer\obj\Debug\net7.0\ASC_Hex_Viewer.csproj.AssemblyReference.cache
+C:\Users\Vivi\Documents\C#\ASC_Hex_Viewer\obj\Debug\net7.0\ASC_Hex_Viewer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vivi\Documents\C#\ASC_Hex_Viewer\obj\Debug\net7.0\ASC_Hex_Viewer.AssemblyInfoInputs.cache
+C:\Users\Vivi\Documents\C#\ASC_Hex_Viewer\obj\Debug\net7.0\ASC_Hex_Viewer.AssemblyInfo.cs
+C:\Users\Vivi\Documents\C#\ASC_Hex_Viewer\obj\Debug\net7.0\ASC_Hex_Viewer.csproj.CoreCompileInputs.cache
+C:\Users\Vivi\Documents\C#\ASC_Hex_Viewer\obj\Debug\net7.0\ASC_Hex_Viewer.dll
+C:\Users\Vivi\Documents\C#\ASC_Hex_Viewer\obj\Debug\net7.0\refint\ASC_Hex_Viewer.dll
+C:\Users\Vivi\Documents\C#\ASC_Hex_Viewer\obj\Debug\net7.0\ASC_Hex_Viewer.pdb
+C:\Users\Vivi\Documents\C#\ASC_Hex_Viewer\obj\Debug\net7.0\ASC_Hex_Viewer.genruntimeconfig.cache
+C:\Users\Vivi\Documents\C#\ASC_Hex_Viewer\obj\Debug\net7.0\ref\ASC_Hex_Viewer.dll

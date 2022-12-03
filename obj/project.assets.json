@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Vivi\\Documents\\ASC_Hex_Viewer\\ASC_Hex_Viewer.csproj",
+      "projectUniqueName": "C:\\Users\\Vivi\\Documents\\C#\\ASC_Hex_Viewer\\ASC_Hex_Viewer.csproj",
       "projectName": "ASC_Hex_Viewer",
-      "projectPath": "C:\\Users\\Vivi\\Documents\\ASC_Hex_Viewer\\ASC_Hex_Viewer.csproj",
+      "projectPath": "C:\\Users\\Vivi\\Documents\\C#\\ASC_Hex_Viewer\\ASC_Hex_Viewer.csproj",
       "packagesPath": "C:\\Users\\Vivi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Vivi\\Documents\\ASC_Hex_Viewer\\obj\\",
+      "outputPath": "C:\\Users\\Vivi\\Documents\\C#\\ASC_Hex_Viewer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Vivi\\AppData\\Roaming\\NuGet\\NuGet.Config"

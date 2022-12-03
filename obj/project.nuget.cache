@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5Pxcn3FS+s1bi++HNqEFYXi/FquLtkscNhCifZUDpYABCwQPWdc7r5n84tPuNmpiunIRHDtjlMS+dPHFIBtvhg==",
+  "dgSpecHash": "jsTlO1ItdSheatGXcXXGzf8veDYBdJxTpidm/WGqcXwV8Id3WG6Nswiu4rmhqU1FH/033swgwfqyoLYX8wbduA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Vivi\\Documents\\ASC_Hex_Viewer\\ASC_Hex_Viewer.csproj",
+  "projectFilePath": "C:\\Users\\Vivi\\Documents\\C#\\ASC_Hex_Viewer\\ASC_Hex_Viewer.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

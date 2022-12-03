@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "ASC_Hex_Viewer/1.0.0": {
+        "runtime": {
+          "ASC_Hex_Viewer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ASC_Hex_Viewer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
